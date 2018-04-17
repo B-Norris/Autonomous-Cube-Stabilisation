@@ -1,0 +1,2 @@
+To include this library into a PSoC Creator project, copy both the h and c files into the projects main directory.
+Once added to the main directory, include both header and c code files into the project by adding them to the code branch on the left.
